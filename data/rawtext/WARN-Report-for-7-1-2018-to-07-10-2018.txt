@@ -1,0 +1,31 @@
+                                                                                          WARN Report*
+                                                                                     Summary by Received Date
+                                                                                       07/01/2018 - 07/10/2018
+                                                                                             Fiscal Year
+                        *Publication Note: This bi-weekly report is updated on the 10th and 25th of each month and published within 3 days thereafter, excluding holidays and weekends.
+
+
+                 Effective      Received                                                                                                                        No. Of
+ Notice Date       Date           Date                            Company                                          City                 County                Employees              Layoff/Closure
+06/29/2018     08/28/2018     07/02/2018         Dream Center Education Holdings, LLC                        Alameda               Alameda County            78              Closure Permanent
+06/29/2018     08/28/2018     07/02/2018         Dream Center Education Holdings, LLC                        Ontario               San Bernardino            88              Closure Permanent
+06/29/2018     08/28/2018     07/02/2018         Dream Center Education Holdings, LLC                        Sacramento            Sacramento                124             Closure Permanent
+06/29/2018     08/28/2018     07/02/2018         Dream Center Education Holdings, LLC                        San Bernardino        San Bernardino            110             Closure Permanent
+06/29/2018     08/28/2018     07/02/2018         Dream Center Education Holdings, LLC                        San Francisco         San Francisco             138             Closure Permanent
+06/29/2018     08/28/2018     07/02/2018         Dream Center Education Holdings, LLC                        Santa Ana             Orange County             161             Closure Permanent
+06/29/2018     08/31/2018     07/03/2018         Alaska USA Federal Credit Union                             Apple Valley          San Bernardino            135             Closure Permanent
+07/03/2018     08/31/2018     07/05/2018         Bethesda Lutheran Communities, Inc.                         Redding               Shasta County             34              Closure Permanent
+06/28/2018     09/30/2018     07/06/2018         Sears, Roebuck and Co.                                      Newark                Alameda County            8               Closure Permanent
+06/28/2018     09/30/2018     07/06/2018         Sears, Roebuck and Co.                                      Newark                Alameda County            46              Closure Permanent
+06/29/2018     08/31/2018     07/06/2018         Eagle Intermodal Services, Inc.                             San Bernardino        San Bernardino            262             Closure Permanent
+06/28/2018     06/28/2018     07/09/2018         Space Systems/Loral, LLC                                    Palo Alto             Santa Clara               109             Layoff Permanent
+07/05/2018     09/03/2018     07/09/2018         Minson Corporation                                          Montebello            Los Angeles               113             Closure Permanent
+
+                                                                                                                                                                                                 Not
+                                           Employees           Permanent                                            Not Identified Permanent                                                  Identified
+Summary by Month          Notices                                                      Temporary Layoff                                                          Temporary Closure
+                                            Affected             Layoff                                                 Layoff      Closure                                                    Closure
+July 2018                            13           1,406                        1                                  0               0         12                                            0                0
+
+                Total                13              1,406                     1                                  0                   0                 12                                0                0
+
