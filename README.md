@@ -6,7 +6,7 @@ https://www.edd.ca.gov/jobs_and_training/layoff_services_warn.htm
 
 Unfortunately, the data is published as Excel-to-PDF format:
 
-https://www.edd.ca.gov/jobs_and_training/warn/WARN-Report-for-7-1-2015-to-06-30-2016.pdf
+[data/pdfs/WARN_Interim_041614_to_063014.pdf](data/pdfs/WARN_Interim_041614_to_063014.pdf)
 
 <a href="data/pdfs/WARN_Interim_041614_to_063014.pdf">
 <img src="_assets/images/warn-interim-2014-04-page-3.png" alt="warn-interim-2014-04-page-3.png">    
