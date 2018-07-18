@@ -8,6 +8,11 @@ Unfortunately, the data is published as Excel-to-PDF format:
 
 https://www.edd.ca.gov/jobs_and_training/warn/WARN-Report-for-7-1-2015-to-06-30-2016.pdf
 
+<a href="data/pdfs/WARN_Interim_041614_to_063014.pdf">
+<img src="_assets/images/warn-interim-2014-04-page-3.png" alt="warn-interim-2014-04-page-3.png">    
+</a>
+
+
 The main work of this repo's scripts is to create an automated process to turn the PDFs into structured plaintext, e.g. comma-separated values.
 
 
