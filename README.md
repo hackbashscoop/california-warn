@@ -1,4 +1,5 @@
-# California WARN data
+# Turning California WARN layoff PDF data into structured CSV
+
 
 The California WARN site publishes the mass layoff notices that the state **Worker Adjustment and Retraining Notification Act** requires companies to disclose:
 
