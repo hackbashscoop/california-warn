@@ -40,6 +40,20 @@ This project attempts to develop a completely automated script-based pipeline fo
 
 For reference, I've included the results of manually (i.e. point-and-click)  invoking the FineReader's PDF-to-Excel conversion in the directory [data/abbbyxls](data/abbbyxls). There's still a bit of wrangling to do because the non-data fields are included, but I'll write (**TK TODO**) a Python ([with xlrd](https://github.com/python-excel/xlrd)) script to automate that tidying process.
 
+Here's what the [WARN-Report-for-7-1-2017-to-06-30-2018.pdf](data/pdfs/WARN-Report-for-7-1-2017-to-06-30-2018.pdf) looks like as PDF:
+
+
+<a href="data/pdfs/WARN-Report-for-7-1-2017-to-06-30-2018.pdf">
+<img src="_assets/images/20180630-pdf.png" alt="20180630-pdf.png">    
+</a>
+
+Here it is after the XLS conversion: [data/abbbyxls/WARN-Report-for-7-1-2017-to-06-30-2018.xls](data/abbbyxls/WARN-Report-for-7-1-2017-to-06-30-2018.xls):
+
+<a href="data/abbbyxls/WARN-Report-for-7-1-2017-to-06-30-2018.xls">
+<img src="_assets/images/20180630-sheet.png" alt="20180630-sheet.png">
+</a>
+
+You can see an [interactive version of it on Google Sheets here](https://docs.google.com/spreadsheets/d/1Dz13dnBvzrwXL-k2O1WmnGrGKHFLCNpXRdiNj4z2dw0/edit?usp=sharing).
 
 
 
