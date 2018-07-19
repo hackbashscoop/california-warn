@@ -34,6 +34,15 @@ Here are the quickie data processing scripts this repo includes, so far:
 
     The output is in [data/rawtext](data/rawtext)    
 
+## ABBYY conversions
+
+This project attempts to develop a completely automated script-based pipeline for data wrangling. But for a real world project with any kind of deadline, it's almost always going to be better to use a commercial product like ABBYY FineReader (and have your boss expense the $99 for it). There are cloud services, like [CometDocs](https://www.cometdocs.com/). I've had the most consistent results with ABBYY though I've never had to use it in production (didn't know about it while working at [ProPublica](https://www.propublica.org/nerds/turning-pdfs-to-text-doc-dollars-guide)).
+
+For reference, I've included the results of manually (i.e. point-and-click)  invoking the FineReader's PDF-to-Excel conversion in the directory [data/abbbyxls](data/abbbyxls). There's still a bit of wrangling to do because the non-data fields are included, but I'll write (**TK TODO**) a Python ([with xlrd](https://github.com/python-excel/xlrd)) script to automate that tidying process.
+
+
+
+
 
 ## Todos
 
@@ -66,5 +75,31 @@ Using Python and regexes, we can implement some naive parsing logic to create pr
 
 
 
+
+## Hard parts
+
+Probably the most annoying part of this data wrangling process is the fact that the data format has changed over the years.
+
+For example, the earliest 2014 format has only 4 fields:
+
+<a href="data/pdfs/eddwarncn14.pdf">
+<img src="_assets/images/2014-format.png" alt="2014-format.png">
+</a>
+
+Later in 2014, the data fields expanded to 7:
+
+
+<a href="data/pdfs/WARN_Interim_041614_to_063014.pdf">
+    <img src="_assets/images/2014-later-format.png" alt="2014-later-format.png">
+</a>
+
+The [latest version of the data document](data/pdfs/WARN-Report-for-7-1-2018-to-07-10-2018.pdf) has 8 fields, with the addition of "County":
+
+
+<a href="data/pdfs/WARN-Report-for-7-1-2018-to-07-10-2018.pdf">
+    <img src="_assets/images/2018-07-format.png" alt="2018-07-format.png">
+</a>
+
+This essentially means several variations of the plaintext-to-CSV script have to be written to deal with the different available data and spacing patterns.
 
 
